@@ -1,0 +1,15 @@
+10/27/2020 03:26:14 PM: INFO :Input destination file :: D:\McAfee\Result
+10/27/2020 03:26:14 PM: INFO :Input config file path :: .\configuration
+10/27/2020 03:26:14 PM: INFO :Input layout type :: Both
+10/27/2020 03:26:14 PM: INFO :Copying the records of Both layout type from given source to destination path
+10/27/2020 03:26:14 PM: INFO :Copying binaries from D:/McAfee/src_dir1 to D:/McAfee/dest_dir1
+10/27/2020 03:26:14 PM: INFO :Copying binaries from D:/McAfee/src_dir2 to D:/McAfee/dest_dir2
+10/27/2020 03:26:14 PM: INFO :Copying binaries from D:/McAfee/src_dir3 to D:/McAfee/dest_dir3
+10/27/2020 03:26:14 PM: INFO :Copying binaries from D:/McAfee/src_dir4 to D:/McAfee/dest_dir4
+10/27/2020 03:26:14 PM: INFO :Moving destination directory D:/McAfee/dest_dir1 to D:\McAfee\Result
+10/27/2020 03:26:14 PM: INFO :Moving destination directory D:/McAfee/dest_dir2 to D:\McAfee\Result
+10/27/2020 03:26:14 PM: INFO :Moving destination directory D:/McAfee/dest_dir3 to D:\McAfee\Result
+10/27/2020 03:26:14 PM: INFO :Moving destination directory D:/McAfee/dest_dir4 to D:\McAfee\Result
+10/27/2020 03:26:14 PM: INFO :creating zip file after copying the records of layout type Both
+10/27/2020 03:26:14 PM: INFO :removing the temp file D:\McAfee\Result
+10/27/2020 03:26:14 PM: INFO :Packaging is successful for given layout type Both

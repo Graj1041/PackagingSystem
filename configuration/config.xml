@@ -1,0 +1,23 @@
+<Records>
+    <record>
+        <src>D:/McAfee/src_dir1</src>
+        <dest>D:/McAfee/dest_dir1</dest>
+        <layout>Release</layout>
+    </record>
+    <record>
+        <src>D:/McAfee/src_dir2</src>
+        <dest>D:/McAfee/dest_dir2</dest>
+        <layout>Debug</layout>
+    </record>
+    <record>
+        <src>D:/McAfee/src_dir3</src>
+        <dest>D:/McAfee/dest_dir3</dest>
+        <layout>Release</layout>
+    </record>
+    <record>
+        <src>D:/McAfee/src_dir4</src>
+        <dest>D:/McAfee/dest_dir4</dest>
+        <layout>Debug</layout>
+    </record>
+</Records>
+
